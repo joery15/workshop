@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /www.linkedin.com/in/luo-jiayi/
+permalink: www.linkedin.com/in/luo-jiayi/
 ---
 
 
