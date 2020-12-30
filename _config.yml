@@ -39,8 +39,9 @@ baseurl: "/workshop" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    linkedin: www.linkedin.com/in/luo-jiayi
-    github: https://joery15.github.io/workshop/
+    linkedin: "www.linkedin.com/in/luo-jiayi"
+    github: "https://joery15.github.io/workshop/"
+    email: "707964902@qq.com"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
